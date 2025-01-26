@@ -8,7 +8,7 @@ entries:
         This project is used for Cloudera AI Workshop. It is based on Customer Churn AMP and highlights all of the major functionality of CML.
         The project contains code to ingest and explore data, train a model, including experimentation with mlflow, deployment of the best model 
         and tracking its performance with MLOps. An interactive Flask application is deployed as part of this project as well. 
-     image_path: "https://raw.githubusercontent.com/cloudera-jp/CML_AMP_Churn_Prediction_HANDSONJP/master/images/Cloudera-AI-Workshop_cover.jpeg"
+     image_path: "https://raw.githubusercontent.com/cloudera-jp/CML_AMP_Churn_Prediction_HANDSONJP/master/images/Cloudera-AI-Workshop_cover.webp"
      tags:
       - Churn Prediction
       - Support Vector Classiciation (SVC)
